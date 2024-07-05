@@ -7,7 +7,5 @@
     "preview": {
       "distribution": "internal"
     },
-    "production": {
-      
-    }
+    "production": "gcc_laviiovino"
 }
