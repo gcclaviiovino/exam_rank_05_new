@@ -1,5 +1,5 @@
 {
-  "build": {
+  "build": "gcc_laviiovino"
     "development": {
       "developmentClient": true,
       "distribution": "internal"
